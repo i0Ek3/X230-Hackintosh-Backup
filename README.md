@@ -35,17 +35,8 @@ Enjoy~
 
 Some screenshots:
 
-![]()
-![]()
-![]()
-![]()
-![]()
-![]()
-![]()
-![]()
-![]()
-![]()
-![]()
-![]()
+![](https://github.com/i0Ek3/X230-Hackintosh-Backup/blob/master/pic/neofetch.png)
+
+![](https://github.com/i0Ek3/X230-Hackintosh-Backup/blob/master/pic/desktop.png)
 
 
