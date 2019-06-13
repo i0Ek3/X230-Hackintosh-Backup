@@ -4,7 +4,7 @@ macOS(10.14.x support) on Lenovo ThinkPad X230.
 
 This is a backup for [f23258's](http://bbs.pcbeta.com/forum.php?mod=viewthread&tid=1800217&highlight=X230) article, check it to know how to install macOS on X230. Big thanks to him.
 
-Also you can visit [here](https://github.com/i0Ek3/BLANK/blob/master/2019/2019-06-12-X230.md) to know how to buy a X230 and made it happen.
+Also you can visit [here](https://github.com/i0Ek3/BLANK/blob/master/2019/2019-06-12-X230.pdf) to know how to buy a X230 and made it happen.
 
 Some issues you should know:
 
