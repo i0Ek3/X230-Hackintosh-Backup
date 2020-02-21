@@ -7,3 +7,5 @@ This repo is a backup of X230 hackintosh EFI files(EFI files from others, I just
 Please go to release page to download EFI which you need.
 
 Branch catalina have some statementation, enjoy it!
+
+Pictures under the pic/, enjoy!
