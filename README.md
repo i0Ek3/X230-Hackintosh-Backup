@@ -4,20 +4,21 @@
 
 This repo is a backup of X230 hackintosh EFI files, which support Mojave/Catalina/Big Sur. If you wanna use this EFI, please go to release page to download EFI which you need, you'd better add your own serial number and mlb information on that.
 
-## X230 Config
+## X230 Configuration
 
-- Mem: 16GB Cuso
+- CPU: Intel i5-3320M
+- Graphic: Intel HD Graphics 4000
+- Mem: Cuso 8GB x 2
 - SSD1: Cuso 480GB for Windows 10
 - SSD2: Samsung Evo 500GB for macOS
 - Wifi Card: stock one
 - Screen: stock one
-- Graphic: Intel HD Graphics 4000
 
 ## Big Sur
 
 On this branch, nothing should be worried. Cause of this version I use @banh's EFI and I modified a little make it work well. 
 
-What you got in this EFI? Just try it!
+What you got in this EFI? Just try it! Of course change your own CPU model's SSDT-PM.aml 
 
 ## Catalina
 
