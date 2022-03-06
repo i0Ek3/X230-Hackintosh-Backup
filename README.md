@@ -1,5 +1,7 @@
 # X230 Hackintosh
 
+**I no longer use hackintosh on my X230 laptop, if you want to know more, just check [5T33Z0](https://github.com/5T33Z0)'s awesome work on [T530](https://github.com/5T33Z0/Lenovo-T530-Hackintosh-OpenCore). **
+
 > **macOS(Mojave & Catalina & Big Sur) on Lenovo ThinkPad X230 i5-3320 without any modified.**
 
 This repo is a backup of X230 hackintosh EFI files, which support Mojave/Catalina/Big Sur. If you wanna use this EFI, please go to release page to download EFI which you need, you'd better add your own serial number and mlb information on that.
